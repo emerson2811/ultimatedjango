@@ -1,0 +1,2 @@
+# ultimatedjango
+Simple Django Practice 
